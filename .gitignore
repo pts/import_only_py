@@ -1,0 +1,5 @@
+*~
+*.pyc
+build
+dist
+import_only_py.egg-info
